@@ -1,4 +1,3 @@
-# Tic_Tac_Toe
 # Tic-Tac-Toe — Documentation
 
 A 5x5 tic-tac-toe game with a Tkinter GUI, playable as Player 1 (human) vs.
