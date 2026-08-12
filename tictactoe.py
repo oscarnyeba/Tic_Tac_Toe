@@ -1,5 +1,3 @@
-"""Tic-Tac-Toe -- Player 1 vs Computer (or 2 Player), 5x5, 4-in-a-row. See DOCUMENTATION.md for full details."""
-
 import random
 import tkinter as tk
 from tkinter import messagebox, simpledialog
